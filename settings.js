@@ -22,11 +22,11 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "Whitelist Spot <br> Claim", // <br> is a line break
+    title: "Whitelist <br> Mint", // <br> is a line break
     shortDescription: "Claim your whitelist spot",
     longDescription: "Just 60 whitelist spots left",
 
-    claimButtonText: "Register",
+    claimButtonText: "Claim",
 
     image: "whitelist.jpeg", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
